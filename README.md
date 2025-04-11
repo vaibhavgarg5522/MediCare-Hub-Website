@@ -6,13 +6,6 @@ A modern and responsive **Healthcare Website** built using **ReactJS**. This pro
 
 ---
 
-## 📸 Screenshots
-
-![MediCare Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)
-<!-- Replace with actual screenshot if available -->
-
----
-
 ## 🚀 Features
 
 - 🏥 Modern medical landing page design
