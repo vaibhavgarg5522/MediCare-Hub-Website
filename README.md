@@ -1,12 +1,48 @@
-# React + Vite
+# 🏥 MediCare Hub Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Healthcare Website** built using **ReactJS**. This project showcases a professional design for a medical or health-related platform, with clean UI, service sections, and a user-friendly layout.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [medi-care-hub-website.vercel.app](https://medi-care-hub-website.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![MediCare Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)
+<!-- Replace with actual screenshot if available -->
+
+---
+
+## 🚀 Features
+
+- 🏥 Modern medical landing page design
+- 📱 Fully responsive for mobile, tablet & desktop
+- 🎨 Clean and intuitive UI/UX
+- 🔍 Sections for services, about, contact, and more
+- ⚡ Fast loading & smooth scrolling experience
+- ✨ Built with reusable React components
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** ReactJS, JavaScript, TailwindCSS
+- **Design:** Responsive Web Design, Component-based structure
+- **Deployment:** Vercel
+
+---
+
+## 📂 Folder Structure
+
+```bash
+MediCare-Hub-Website/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── .gitignore
+├── README.md
+├── package.json
+└── tailwind.config.js
